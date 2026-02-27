@@ -1,5 +1,5 @@
 import heroImage from "../assets/heroImage.png";
-import calenderIcon from "../assets/calendericon.svg";
+import calenderIcon from "../assets/calenderIcon.svg";
 import searchIcon from "../assets/searchIcon.svg";
 import { cities } from "../assets/assets";
 
